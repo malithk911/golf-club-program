@@ -1,0 +1,9 @@
+### handle_inputs() ###
+
+# Perform while true
+# Display menu by calling menu() function
+# Prompt user to enter an option
+# Assign user input to option variable
+# if option == 1
+    # then prompt user to enter number of golfers
+    # Assign user_input to
